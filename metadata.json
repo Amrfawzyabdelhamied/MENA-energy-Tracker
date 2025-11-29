@@ -1,0 +1,5 @@
+{
+  "name": "Egypt Energy Analysis AI",
+  "description": "A dashboard analyzing clean energy adoption and CO2 emissions in Egypt compared to neighboring countries using Gemini AI.",
+  "requestFramePermissions": []
+}
